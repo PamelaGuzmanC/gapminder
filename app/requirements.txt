@@ -1,2 +1,8 @@
 streamlit
 pandas
+plotly.express
+Path
+numpy
+seaborn
+matplotlib
+plotly
