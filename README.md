@@ -14,5 +14,4 @@ This is a Streamlit-based dashboard displaying Gapminder data.
 
 ## Live Prototype
 
-You can view the deployed prototype at [https://gapminder.pamelaguzmanc.com]
-
+You can view the deployed prototype at [https://gapminder.demo.pamelaguzmanc.com/]
